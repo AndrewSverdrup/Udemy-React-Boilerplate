@@ -1,0 +1,5 @@
+.DS_STORE
+.DS_Store
+server.coffee
+app/api
+node_modules
